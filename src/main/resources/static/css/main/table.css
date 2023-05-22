@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+.dbList {
+  display: fixed;
+  height: 700px;
+  min-height: 600px;
+  max-height: 850px;
+  overflow-y: auto;
+  width: 320px;
+  position: fixed;
+  top: 110px;
+  padding-left: 5px;
+  background-color: #ffffff;
+}
+
+.tableInfo {
+	margin-left: 360px;
+	min-height: 700px;
+}
+
+.notice {
+	text-align: center;
+	padding: 300px 0;
+}

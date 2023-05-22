@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+#layout {
+	margin: 0 auto;
+	min-width: 1900px;
+	min-height: 930px;
+}
+
+.layoutHeader {
+	text-align: right;
+}
+
